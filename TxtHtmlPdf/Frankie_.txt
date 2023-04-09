@@ -1,0 +1,14 @@
+
+# This is a header
+
+- this is small hader
+
+& test.png
+
+- ^ is an image
+
+@Nixlyn.github.io this is a link
+
+
+%0 if code:
+%1	add(persent_sign)
