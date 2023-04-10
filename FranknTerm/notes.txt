@@ -1,0 +1,5 @@
+wmctrl -r :ACTIVE: -e 0,100,300,890,560
+
+100,300= window position x,y
+890,560= window size x,y
+
